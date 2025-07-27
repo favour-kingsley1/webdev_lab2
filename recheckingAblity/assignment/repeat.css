@@ -1,0 +1,23 @@
+body{
+     background-image: url(/images\ 1.jpeg); 
+}
+h1,h2,p{
+    text-align: center;
+}
+#container{
+    background-color: burlywood;
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+ } 
+.item p{
+    display : inline-block;
+}
+.coffee{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+} 
